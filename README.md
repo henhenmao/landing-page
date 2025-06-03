@@ -1,2 +1,3 @@
-This is my second project for The Odin Project
-I don't know what to put here because I don't even know what the project is
+This is a landing page made with HTML and CSS  
+The purpose of this project was to practice using HTML and CSS and making a webpage look nice  
+I really like this one I think it looks very pleasing
